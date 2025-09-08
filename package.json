@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Tonkaow-19.github.io/auditorpev.git",
+  "homepage": "https://Tonkaow-19.github.io/pevqc.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
